@@ -30,6 +30,10 @@
 ### 01 August  - 07 August:
 ### 08 August  - 14 August:
 ### 15 August  - 21 August:
+- Send APP to Beta Testers
+
 ### 21 August  - 28 August:
+
+
 ### 29 August  - 04 September:
 - Submit APP to AppStore
