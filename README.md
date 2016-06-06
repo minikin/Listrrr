@@ -3,19 +3,19 @@
 ### 30 May - 05 June :
 
 - [x] Models;
-- [ ]Network requests.
+- [ ] Network requests.
 
 ### 06 June - 12 June :
 
-- [ ]API intergration;
-- [ ]Tests: Model < - > Network Controllers < - > API.
+- [ ] API intergration;
+- [ ] Tests: Model < - > Network Controllers < - > API.
 
 ### 13 June  - 26 June:
-- [ ]On vacation :)
+- [ ] On vacation :)
 
 ### 27 June  - 03 July:
 
-- [ ]Storyboard;
+- [ ] Storyboard;
 - [ ] Basic UI.
 
 ### 04 July  - 10 July:
@@ -30,10 +30,10 @@
 ### 01 August  - 07 August:
 ### 08 August  - 14 August:
 ### 15 August  - 21 August:
-- [ ]Send APP to Beta Testers
+- [ ] Send APP to Beta Testers
 
 ### 21 August  - 28 August:
 
 
 ### 29 August  - 04 September:
-- [ ]Submit APP to AppStore
+- [ ] Submit APP to AppStore
